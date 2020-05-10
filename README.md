@@ -10,7 +10,7 @@ A continuación te presentamos una idea de cómo debe lucir tu documento tu proy
 Contenido
 En el siguiente enlace puedes obtener los recursos para tu prototipo.
 
-<a href="/descargas/contenido_base.zip" download="contenido_base.zip">
+<a href="https://github.com/Next-University/Practica-CSS/blob/Ejercicio1/Descargas/contenido_base.zip" download="contenido_base.zip">
 Descargar contenido base 
 </a>
 
