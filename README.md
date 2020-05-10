@@ -1,6 +1,7 @@
-	HORA DE
-codificar	
+	HORA DE codificar	
 En esta ocasión se requiere para tu proyecto del Blog de Conciertos realices ajustes a los estilos del sitio, observa y analiza los cambios que se producen por herencia y cascada.
+
+<ing src="Descripcion/contenido1.png">
 
 
 Contenido
