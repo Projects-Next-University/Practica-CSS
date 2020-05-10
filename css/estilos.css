@@ -1,0 +1,28 @@
+ /*1-2:Crea el archivo estilos.css dentro de la carpeta estilos y enlazarlo
+    Con uso de estilo coloca un margen al body de 20 
+    píxeles por todos los lados (arriba, abajo, izq, derecha)
+    3-Asigna la letra verdana como predeterminada para todo el documento
+    */
+ 
+ body {
+     margin: 20px;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ /*4-Crea una clase llamada "resaltado" con fondo amarillo y encierra los nombres de los autores en un span que use la clase "resaltado" que definiste anteriormente
+*/
+ 
+ .resaltado {
+     background-color: yellow;
+ }
+ /*Asigna un id="menu-principal" a la etiqueta nav-bar y crea en el archivo de estilos un selector de id que defina el padding: 10px 0px;*/
+ 
+ #menu-principal {
+     padding: 10px 0px;
+ }
+ /*Crear la clase titulo para h1 y definir: color de fondo a aliceblue, alineado central y padding de 10 píxeles*/
+ 
+ .titulo {
+     background-color: aliceblue;
+     align-items: center;
+     padding: 10px;
+ }
