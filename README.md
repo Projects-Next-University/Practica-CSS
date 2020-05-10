@@ -10,8 +10,9 @@ A continuación te presentamos una idea de cómo debe lucir tu documento tu proy
 Contenido
 En el siguiente enlace puedes obtener los recursos para tu prototipo.
 
+<a href="/descargas/contenido_base.zip" download="contenido_base.zip">
 Descargar contenido base 
-
+</a>
 
 Instrucciones
 Crea un archivo estilos.css dentro de la carpeta css y enlázalo con la etiqueta link dentro del head del HTML. En ese archivo externo colocar los estilos generales:
