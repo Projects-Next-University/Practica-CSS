@@ -167,7 +167,6 @@ nowrap: no permite saltos de línea si no
 está la etqueta <br>.
 Liststyletype: disc circle square decimal
 lowerroman upperroman loweralpha
-
 Se usa para especificar la presentación
 de las listas a través de círculos,
 decimales, letras en mayúsculas, entre
