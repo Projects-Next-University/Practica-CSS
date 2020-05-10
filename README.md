@@ -1,0 +1,1 @@
+<img src="descrip/Notas/CSS y Diseño Web Responsive_ Lección 3_ Selectores_ Actividad 3 - Brave 05_10_2020 4_09_17 p. m..png">
