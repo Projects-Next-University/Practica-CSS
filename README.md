@@ -2,7 +2,7 @@
 codificar	
 Para tu proyecto del Blog de Conciertos en esta oportunidad, el supervisor del área de producción de software requiere que realices unos ajustes a los estilos del sitio, a continuación te presentamos una imagen de como debe lucir esta nueva versión.
 
-<img src ="/descripcion/contenido1.png">
+<img src="/Descripcion/contenido1.png">
 
 
 Contenido
