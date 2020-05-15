@@ -1,0 +1,6 @@
+*{
+    margin: 1vh 1vh;
+}
+form > p {
+    background-color: blue;
+}
